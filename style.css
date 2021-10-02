@@ -20,7 +20,7 @@ h1{
 
 .accordion .container{
     position: relative;
-    margin: 10px 20px;
+    margin: 10px 0 25px 0;
 }
 
 .accordion .label{
