@@ -20,7 +20,7 @@ h1{
 
 .accordion .container{
     position: relative;
-    margin: 10px 10px;
+    margin: 10px 20px;
 }
 
 .accordion .label{
@@ -45,7 +45,6 @@ h1{
     position: relative;
     background-color: white;
     font-size: 20px;
-    text-align: justify;
     max-width: 780px;
     overflow: hidden;
     transition: 0.5s;
